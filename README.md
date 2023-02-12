@@ -3,7 +3,7 @@ Ever written an essay that is below your assigned character count?? <br>
 Well look no further than this super amazing essay lengthener
 <img src="https://media.istockphoto.com/id/157030584/vector/thumb-up-emoticon.jpg?s=612x612&w=0&k=20&c=GGl4NM_6_BzvJxLSl7uCDF4Vlo_zHGZVmmqOBIewgKg=" width="20" height="20"></img>
 
-### This program will go through each word and find it's synonym with the longest word length, resulting in beautiful literary masterpieces.
+### This program will go through each word and find it's synonym with the longest word length.
 
 ## Dependencies
 NLTK: `pip install nltk`
